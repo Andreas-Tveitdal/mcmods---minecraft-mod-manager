@@ -1,0 +1,23 @@
+mcmods
+A decent way to keep mods organised across different minecraft versions
+
+USAGE:
+    mcmods [SUBCOMMAND]
+
+FLAGS:
+    -h, --help      Prints help information
+
+SUBCOMMANDS:
+    help        Prints this message or the help of the given subcommand(s)
+    compare     Compare two saved versions
+    list        List all currently saved versions
+    load        Load a saved version
+    mods        Lists mods in a version
+    new         Create a new empty version
+    remove      Remove a version
+    rename      Rename an existing version
+    save        Save the current version
+    status      Get info on the selected versions' state
+
+ARGS:
+    <SUBCOMMAND>    The subcommand whose help message to display

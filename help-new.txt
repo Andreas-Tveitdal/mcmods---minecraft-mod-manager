@@ -1,0 +1,11 @@
+mcmods-new
+Create a new empty version
+
+USAGE:
+    mcmods new [VERSION]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION>       The version to load

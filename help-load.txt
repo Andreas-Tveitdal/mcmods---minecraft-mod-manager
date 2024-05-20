@@ -1,0 +1,11 @@
+mcmods-load
+Load a saved version
+
+USAGE:
+    mcmods load [VERSION]
+
+FLAGS:
+    -h, --help  Prints help information
+
+ARGS:
+    <VERSION>   The version to load

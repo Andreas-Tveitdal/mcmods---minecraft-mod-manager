@@ -1,0 +1,11 @@
+mcmods-remove
+Remove a version
+
+USAGE:
+    mcmods remove [VERSION]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION>       The version to remove

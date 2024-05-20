@@ -1,0 +1,12 @@
+mcmods-rename
+Rename an existing version
+
+USAGE:
+    mcmods rename [VERSION] [NEW NAME]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION>       The version to change the name of
+    <NEW NAME>      The new name of the specified version

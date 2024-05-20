@@ -1,0 +1,11 @@
+mcmods-save
+Save the current version
+
+USAGE:
+    mcmods save [VERSION]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION>       Name of the saved version

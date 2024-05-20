@@ -1,0 +1,8 @@
+mcmods-list
+List all currently saved versions
+
+USAGE:
+    mcmods list
+
+FLAGS:
+    -h, --help       Prints help information

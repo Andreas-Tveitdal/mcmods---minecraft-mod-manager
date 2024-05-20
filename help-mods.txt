@@ -1,0 +1,12 @@
+mcmods-mods
+Lists mods in a version
+
+USAGE:
+    mcmods mods
+    mcmods mods [VERSION]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+        <VERSION>       The version to list the mods of

@@ -1,0 +1,12 @@
+mcmods-status
+Get info on the selected versions' state
+
+USAGE:
+    mcmods status
+    mcmods status [VERSION]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION>       The version to compare the currently loaded version to

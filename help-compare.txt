@@ -1,0 +1,12 @@
+mcmods-compare
+Compare two saved versions
+
+USAGE:
+    mcmods compare [VERSION 1] [VERSION 2]
+
+FLAGS:
+    -h, --help      Prints help information
+
+ARGS:
+    <VERSION 1>     One of the versions that will be compared
+    <VERSION 2>     One of the versions that will be compared
